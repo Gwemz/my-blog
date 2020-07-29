@@ -1,0 +1,1 @@
+gh-pages -r git@github.com:Gwemz/new-blog.git -b master -d public
